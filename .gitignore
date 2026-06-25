@@ -1,0 +1,24 @@
+# Maven
+target/
+
+# Java build artefacts
+bin/
+*.class
+*.jar
+*.ser
+
+# IDE metadata
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp

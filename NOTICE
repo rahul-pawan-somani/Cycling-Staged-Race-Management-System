@@ -1,0 +1,25 @@
+Third-party and supplied material
+=================================
+
+The following API scaffold files originated from University of Exeter
+coursework material and retain their original author attribution:
+
+- src/main/java/cycling/CyclingPortal.java
+- src/main/java/cycling/MiniCyclingPortal.java
+- src/main/java/cycling/CheckpointType.java
+- src/main/java/cycling/StageType.java
+- src/main/java/cycling/DuplicatedResultException.java
+- src/main/java/cycling/IDNotRecognisedException.java
+- src/main/java/cycling/IllegalNameException.java
+- src/main/java/cycling/InvalidCheckpointTimesException.java
+- src/main/java/cycling/InvalidLengthException.java
+- src/main/java/cycling/InvalidLocationException.java
+- src/main/java/cycling/InvalidNameException.java
+- src/main/java/cycling/InvalidStageStateException.java
+- src/main/java/cycling/InvalidStageTypeException.java
+- src/main/java/cycling/NameNotRecognisedException.java
+
+These files are included to preserve the original public programming contract.
+Their applicable reuse and redistribution terms should be confirmed with the
+original course provider. The repository's MIT License applies only to
+repository-authored material.
