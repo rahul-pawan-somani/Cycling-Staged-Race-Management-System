@@ -1,7 +1,5 @@
 # Cycling Staged Race Management System
 
-[![Java CI](https://github.com/rahul-pawan-somani/Cycling-Staged-Race-Management-System/actions/workflows/ci.yml/badge.svg)](https://github.com/rahul-pawan-somani/Cycling-Staged-Race-Management-System/actions/workflows/ci.yml)
-
 An in-memory Java 17 domain model and API for managing staged cycling races,
 teams, riders, checkpoints and race results.
 
